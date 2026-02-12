@@ -1,11 +1,11 @@
 # Multiple-Linear-Regression
  📊 Multiple Linear Regression  This repository contains an implementation of Multiple Linear Regression, a supervised machine learning algorithm used to model the relationship between one dependent variable and two or more independent variables.
 
- 📌 Project Overview
+# 📌 Project Overview
 
 Multiple Linear Regression is an extension of Simple Linear Regression that models the relationship between one dependent variable and two or more independent variables.
 
-📖 Mathematical Model
+# 📖 Mathematical Model
 𝑌=𝛽0+𝛽1𝑋1+𝛽2𝑋2+...+𝛽𝑛𝑋𝑛+𝜀
 Y=β0+β1X1+β2X2+...+βnXn+ε
 
@@ -15,7 +15,7 @@ X₁, X₂, ..., Xₙ → Independent variables
 β₀ → Intercept
 β₁, β₂, ..., βₙ → Coefficients
 ε → Error term
-🚀 Features
+# 🚀 Features
 
 Data preprocessing and cleaning
 Exploratory Data Analysis (EDA)
@@ -41,14 +41,14 @@ Interpretation of model coefficients
 
 6.Scikit-Learn
 
-📂 Project Structure
+# 📂 Project Structure
 multiple-linear-regression/
 │
 ├── multiple-linear-regression.ipynb
 ├── dataset.csv (if applicable)
 └── README.md
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
 Clone the repository:
 
@@ -74,7 +74,7 @@ Open Jupyter Notebook:
 
 jupyter notebook
 
-📊 Model Workflow
+# 📊 Model Workflow
 
 1.Import libraries
 
@@ -90,7 +90,7 @@ jupyter notebook
 
 7.Visualization and interpretation
 
-📈 Example Applications
+# 📈 Example Applications
 
 1.House price prediction
 
@@ -102,7 +102,7 @@ jupyter notebook
 
 5.Performance analysis
 
-🧠 Learning Outcomes
+# 🧠 Learning Outcomes
 
 1.Understanding regression fundamentals
 
@@ -112,7 +112,7 @@ jupyter notebook
 
 4.Interpreting model coefficients
 
-📌 Future Improvements
+# 📌 Future Improvements
 
 1.Add feature selection techniques
 
@@ -122,12 +122,12 @@ jupyter notebook
 
 4.Deploy model using Flask/Streamlit
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
-📜 License
+# 📜 License
 
 1.This project is open-source and available under the MIT License.
 
@@ -142,4 +142,10 @@ Feel free to fork this repository and submit a pull request.
 6.Generate a requirements.txt file for you
 
 7.Add screenshots section for GitHub
+# ✨ Author
+Sakshi Pandey
+
+📧 sakshi.pandey0511@gmail.com
+
+💻 sakshi.pandey0511
 
